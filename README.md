@@ -2,7 +2,7 @@
 
 # CSS Grid Responsive Website
 
-<img src="shortcut.png">
+<img src="images/shortcut.png">
 
 #### LIVE LINK: https://nhingo.com/CSS-grid-responsive-website/
 
